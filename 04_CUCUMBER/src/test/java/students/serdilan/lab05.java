@@ -3,7 +3,7 @@ package students.serdilan;
 public class lab05 {
     /*
     * my framework is based on maven build project so with that
-I use pom.xml in order to centralize my dependencies. I also use configuration propertiea
+I use pom.xml in order to centralize my dependencies. I also use configuration properties
 in order to store my data with key and value. Also my framework have some utilites in order to
 make my job easy and to store somre ready methods and everytime calld and used it, so in this case it
 is handy call my methods and using utilities also I stored my driver utilities classess as well.I have

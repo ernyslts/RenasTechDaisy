@@ -1,16 +1,6 @@
-package code.utilities;
-
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxOptions;
+package src.test.java.students.EREN.Utils_Slab07;
 
 public class DriverUtil {
-//to be able to achive singelton design pattern we will need to have private constructor
-// no one can be able to create object from this class beacause we are making constructor priavate .
-
     private DriverUtil(){
 
     }
